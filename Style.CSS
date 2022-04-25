@@ -1,0 +1,25 @@
+body
+{
+	background: rgb(0, 254, 110);
+    text-align: center;
+}
+.dog
+{
+    height: 300px;
+    width: 300px;
+}
+.lion
+{
+    height: 300px;
+    width: 300px;  
+}
+.Horse
+{
+    height: 300px;
+    width: 300px;
+}
+.crow
+{
+    height: 300px;
+    width: 300px;
+}
